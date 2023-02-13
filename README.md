@@ -1,4 +1,4 @@
-==Installation guide
+=Installation guide
 1. Install DB server
 2. Install PHP
 3. Install Larvael composer
